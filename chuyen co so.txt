@@ -1,0 +1,9 @@
+Chuyển cơ số bất kỳ qua cơ số 10   
+==> a * C^n   C= (2,8,16) n: 0 ->n từ phải qua trái
+
+Chuyển cơ số 10 qua cơ số bất kỳ   
+==> Lấy số đó mà chia cho cơ số muốn chuyển đến khi kết quả bằng 0, thì lấy số dư ngược lại.   
+
+
+Chuyển đổi qua lại giữa các cơ số 2,8,16   
+==> 8 (Gộp 3) <-> 2 <-> 16 (Gộp 4)
